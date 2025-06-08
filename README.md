@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development, DSA, and Problem Solving  
 - 🌱 I’m currently learning JavaScript and MERN Stack  
 - 💞️ I’m looking to collaborate on web development internships  
-- 📫 How to reach me: [chanchalwankhade97@gmail.com]
+- 📫 How to reach me chanchalwankhade97@gmail.com
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I love turning ideas into reality through code!
