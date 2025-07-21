@@ -1,28 +1,41 @@
-👋 Hi, I'm Chnachal Wankhade
+# 👋 Hello, I'm Chanchal Wankhade!
+
 🚀 Passionate Developer | DSA Enthusiast | Problem Solver
 
 I'm a Web Development and Data Analytics enthusiast actively exploring the MERN Stack and Power BI.
 
+---
+
 💡 What I’m Working On:
-🌱 Mastering JavaScript and diving into MongoDB, Express.js, React.js, and Node.js
 
-💻 Solving DSA problems daily on LeetCode, GeeksforGeeks, and participating in coding contests
+✅ Currently mastering JavaScript and exploring MongoDB, Express.js, React, Node.js  
+✅ Solving DSA challenges on LeetCode, GFG & participating in contests  
+✅ Open to collaborations, internships, and real-world projects
 
-🤝 Open to internships, and real-world tech projects
+---
 
-🔧 Tech Stack:
-Frontend: React.js • HTML • CSS • TailwindCSS
-Backend: Node.js • Express.js
-Database: MongoDB • SQL
-Languages: JavaScript • Python • C++
+🛠 Tech Stack
 
-📫 Let's Connect:
-📧 Email: chanchalwankhade97@gmail.com
+React.js • Node.js • Express.js • MongoDB  
+JavaScript • Python • C++ • SQL  
+HTML • CSS • TailwindCSS
 
-💼 LinkedIn • GitHub • LeetCode • GFG
+---
 
-🎯 Fun Fact:
+🏆 Highlights
+
+● DSA Problem Solving on LeetCode & GFG  
+● Actively participating in coding contests  
+● Learning Power BI for Data Analytics  
+
+---
+
+📬 Let's Connect
+
+📧 Email: chanchalwankhade97@gmail.com  
+🔗 LinkedIn • GitHub • LeetCode • GFG
+
+---
+
+🎯 Fun Fact  
 If coding is logic, music is emotion — and I’m fluent in both. 🎹💻
-
-✨ Let’s build something amazing together! ✨
-
