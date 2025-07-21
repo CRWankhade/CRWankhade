@@ -33,7 +33,10 @@ HTML • CSS • TailwindCSS
 📬 Let's Connect
 
 📧 Email: chanchalwankhade97@gmail.com  
-🔗 LinkedIn • GitHub • LeetCode • GFG
+🔗 [LinkedIn](https://www.linkedin.com/in/chanchal-wankhade-b34005278/) • 
+[GitHub](https://github.com/CRWankhade/) • 
+[LeetCode](https://leetcode.com/u/Chan_123/) • 
+[GFG](https://www.geeksforgeeks.org/user/chanchal_wankhade/)
 
 ---
 
